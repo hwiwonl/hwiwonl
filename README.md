@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align="center">
   <a href="https://twitter.com/hwiwonl">
     <img src="https://img.shields.io/twitter/follow/hwiwonl?style=for-the-badge&label=%40hwiwonl&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
